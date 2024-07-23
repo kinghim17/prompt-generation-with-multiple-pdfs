@@ -1,0 +1,2 @@
+### ABOUT THIS PROJECT
+This project enables users to interactively generate prompts based on content from multiple PDF documents using a FAISS database for efficient similarity search. The Streamlit UI provides an intuitive interface for querying and retrieving relevant information from the PDFs. Users can upload their PDFs, and the system will index them using FAISS, enabling fast and accurate text retrieval.
